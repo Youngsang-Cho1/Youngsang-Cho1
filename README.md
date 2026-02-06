@@ -1,8 +1,8 @@
 # Aiden Cho 👋
 CS + Data Science @ NYU • Python / ML • Building data-driven projects
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:[youngsang1211@gmail.com|yc6521@nyu.edu])
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.linkedin.com/in/aiden-cho/])
+[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:yc6521@nyu.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aiden-cho/)
 
 ---
 
