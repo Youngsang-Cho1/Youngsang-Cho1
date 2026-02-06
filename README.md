@@ -14,7 +14,7 @@ CS + Data Science @ NYU • Python / ML • Building data-driven projects
 
 ## What I’m working on (in progress)
 ### ♟️ Chess Analytics (ML/LLM)
-A project to analyze user chess behavior (style, accuracy, trends) using structured features and ML/LLM tooling.  
+- A project to analyze user chess behavior (style, accuracy, trends) using structured features and ML/LLM tooling.  
 **Current focus:** feature engineering, database design, and evaluation pipeline  
 **Tech:** Python, SQL, LangChain, Docker, Scikit-Learn
 ---
