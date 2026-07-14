@@ -1,56 +1,30 @@
-# Aiden Cho 👋
-CS + Data Science @ NYU • Python / ML • Building data-driven projects
+# 💫 About Me:
 
-[![Email](https://img.shields.io/badge/Email-Contact-informational)](mailto:yc6521@nyu.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aiden-cho/)
+I am a Computer Science and Data Science student at **New York University** with interests in **machine learning, multimodal AI, and software engineering**.
 
----
+Currently, I am conducting Vision-Language Model research at **Seoul National University** and have experience building machine learning systems and backend applications.
 
-## TL;DR
-- 🧠 Interested in **Machine Learning, applied data science, and scalable pipelines**
-- 🛠️ I like building **end-to-end systems**: data → features → machine learning models → evaluation → simple UI
+## 🌐 Socials:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 
-## What I’m working on (in progress)
-### ♟️ Chess Analytics (ML/LLM)
-- A project to analyze user chess behavior (style, accuracy, trends) using structured features and ML/LLM tooling.  
-**Current focus:** feature engineering, database design, and evaluation pipeline  
-**Tech:** Python, SQL, LangChain, Docker, Scikit-Learn
----
+# 💻 Tech Stack:
 
-## Selected Projects
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### ⚽ Premier League Prediction Web App (Full-stack + ML)
-- Scraping + preprocessing + feature engineering + model training + inference pipeline  
-- Interactive UI for match outcome prediction  
-**Tech:** Flask, Python, JS/HTML/CSS, scikit-learn/XGBoost, BeautifulSoup/Selenium  
-**Repo:** https://github.com/Youngsang-Cho1/Premier-League-Prediction
-
-### ✅ Academic Planner Web App (Express + MongoDB)
-- Auth + CRUD + AJAX-driven UI projects  
-**Tech:** Node.js, Express, Handle Bars, Bcrypt, MongoDB, REST APIs  
-**Repo:** https://github.com/Youngsang-Cho1/Authentication-Based-Academic-Planner
-
----
-
-## Skills
-**ML / Data**
-- Supervised learning, model evaluation, feature engineering, embeddings, retrieval
-- Pandas, NumPy, scikit-learn, PyTorch (comfortable), Statistics, Calculus, Linear Algebra
-
-**Engineering**
-- Python, JavaScript, SQL, Git
-- Flask / Express, MongoDB
-- Reproducible workflows, clean codebases, readable docs
-
----
-
-## Quick facts
-- 🎓 NYU • CS + Data Science
-- 🌱 Learning more about: **LLMs, scalable ML pipelines, and applied research**
-- 🤝 Open to: research collaboration, internship projects, and building useful tools
-
----
-
-Thanks for visiting!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
