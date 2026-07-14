@@ -6,8 +6,8 @@ Currently, I am conducting Vision-Language Model research at **Seoul National Un
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aiden-cho/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](youngsang1211@gmail.com)
 
 # 💻 Tech Stack:
 
